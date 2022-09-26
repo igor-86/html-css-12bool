@@ -1,0 +1,27 @@
+
+
+.box {
+    height: 30px;
+}
+.box-z {
+    height: 0px;
+}
+.box-in {
+    
+    height: 30px;
+}
+.b-yellow {
+    background-color: yellow;
+}
+.b-black {
+    background-color: black;
+}
+.b-grey {
+    background-color: #626361;
+}
+.b-blue {
+    background-color: blue;
+}
+.b-red {
+    background-color: red;
+}
