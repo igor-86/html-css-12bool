@@ -1,7 +1,27 @@
 /* Custom style */
 html {
     font-family: 'Open Sans', sans-serif;
+    
 }
-body {
-    background-color: blueviolet;
+/* Font */
+
+/* Common */
+section {
+    margin-bottom: 2em;
+}
+.box {
+    background-color: #ffa600;
+    border: 1px solid white;
+    padding: 1em .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.b-nest {
+    background-color: #ffde05;
+    border: 1px solid #ffa600;
+}
+.pad {
+    padding: 1.5em .5em;
 }
